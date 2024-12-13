@@ -37,3 +37,10 @@ function draw() {
     lastSend = millis();
   }
 }
+
+
+
+
+let mymouse = { data: { x: mouseX, y: mouseY, w: width, h: height}};
+mymouse.data.x
+mymouse["data"]
